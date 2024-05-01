@@ -15,7 +15,7 @@ const Contact = () => {
                 </div>
             </div>
             <div className=''>
-                <form className="my-4" action='https://getform.io/f/nbvvpymb' method='POST' encType='multipart/form-data'>
+                <form className="my-4" action='' method='POST' encType='multipart/form-data'>
                     <div className="contacting">
                         <input className=' border-2 border-solid shadow-lg p-2 flex w-full rounded' type="text" name="name" id="" placeholder='Your name'/>
                         <input className=' border-2 border-solid shadow-lg p-2 flex w-full rounded my-2' type="email" name="email" id="" placeholder='Your Email'/>
