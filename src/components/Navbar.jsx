@@ -17,11 +17,11 @@ const Navbar = () => {
     <div className='text-black flex justify-between items-center h-20 max-w-[1240px] mx-auto px-4' id='home'>
         <h1 className='w-full text-3xl font-bold text-[#3aaccf]'>Luminir.</h1>
         <ul className='hidden md:flex'>
-            <li className='p-4'><Link activeClass="active" to="home" spy={true} smooth={true} offset={50} duration={500}>Home</Link></li>
-            <li className='p-4'><Link activeClass="active" to="biography" spy={true} smooth={true} offset={-70} duration={500}>Biography</Link></li>
-            <li className='p-4'><Link activeClass="active" to="skills" spy={true} smooth={true} offset={50} duration={500}>Skills</Link></li>
-            <li className='p-4'><Link activeClass="active" to="frameworks" spy={true} smooth={true} offset={50} duration={500}>Frameworks</Link></li>
-            <li className='p-4'><Link activeClass="active" to="contact" spy={true} smooth={true} offset={-70} duration={500}>Contact</Link></li>
+            <li className='p-4  cursor-pointer'><Link activeClass="active" to="home" spy={true} smooth={true} offset={50} duration={500}>Home</Link></li>
+            <li className='p-4  cursor-pointer'><Link activeClass="active" to="biography" spy={true} smooth={true} offset={-70} duration={500}>Biography</Link></li>
+            <li className='p-4  cursor-pointer'><Link activeClass="active" to="skills" spy={true} smooth={true} offset={50} duration={500}>Skills</Link></li>
+            <li className='p-4  cursor-pointer'><Link activeClass="active" to="frameworks" spy={true} smooth={true} offset={50} duration={500}>Frameworks</Link></li>
+            <li className='p-4  cursor-pointer'><Link activeClass="active" to="contact" spy={true} smooth={true} offset={-70} duration={500}>Contact</Link></li>
         </ul>
         <div onClick={handleNav} className='block md:hidden'>
           {nav ? <IoMdClose size={30}/> : <MdMenu size={30}/>}

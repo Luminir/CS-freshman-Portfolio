@@ -13,7 +13,8 @@ const MyFace = () => {
                     <p className='pt-2'><span className='text-[#ffffff]'>From: </span>Ba Đinh District, Ha Noi, Vietnam</p>
                     <p className='pt-2'><span className='text-[#ffffff]'>Education: </span>FIT Freshman at Hanoi University (2023 ~)</p>
                     <p className='pt-2'><span className='text-[#ffffff]'>Email: </span>trannamson0328@gmail.com</p>
-                    <p className='pt-2'><span className='text-[#ffffff]'>Projects: </span>Check my works on <a href="https://github.com/Luminir" className='text-[#97f5a8]'>Github</a></p>
+                    <p className='pt-2'><span className='text-[#ffffff]'>Projects: </span>Check my works on <a href="https://github.com/Luminir" className='text-[#97f5a8] underline hover:underline-offset-4'>Github</a></p>
+                    <p className='pt-2'><span className='text-[#ffffff]'>Achievement: </span>Havard CS50’s Introduction to Computer Science <a href="https://drive.google.com/file/d/1w6urUgt4s8sB8mwELkhdks9-e9U3L9e-/view?usp=sharing" className='text-[#97f5a8] underline hover:underline-offset-4'>CERT</a></p>
                     <p className='pt-2 text-[#ffffff]'>"I love to be able to build and create things that pleased the eyes and functional. Currently, I'm all in Web Development but still willingly to change accordingly to what the world needs."</p>
                 </div>
             </div>

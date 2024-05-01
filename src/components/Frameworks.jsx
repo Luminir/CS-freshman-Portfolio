@@ -75,11 +75,11 @@ const Frameworks = () => {
                 <h2 className='text-2xl font-bold text-center py-5 border-b'>Tailwind</h2>
                 <div className='text-center font-medium'>
                     <p className=' py-2 border-b mx-8 mb-2'>Fundamentals & simple core concepts</p>
-                    <p className=' py-2 border-b mx-8 mb-2'>6/10</p>
+                    <p className=' py-2 border-b mx-8 mb-2'>7/10</p>
                 </div>
                 <div className="flex w-full justify-center">
                     <div class="w-[200px] h-2 bg-blue-200 rounded-full flex">
-                        <div class="w-3/5 h-full text-center text-xs text-white bg-[#ff6f00] rounded-full"></div>
+                        <div class="w-2/3 h-full text-center text-xs text-white bg-[#ff6f00] rounded-full"></div>
                     </div>
                 </div>
             </div>
@@ -89,7 +89,7 @@ const Frameworks = () => {
                 <h2 className='text-2xl font-bold text-center py-5 border-b'>Flask</h2>
                 <div className='text-center font-medium'>
                     <p className=' py-2 border-b mx-8 mb-2'>Fundamentals From CS50</p>
-                    <p className=' py-2 border-b mx-8 mb-2'>6/10</p>
+                    <p className=' py-2 border-b mx-8 mb-2'>5/10</p>
                 </div>
                 <div className="flex w-full justify-center">
                     <div class="w-[200px] h-2 bg-blue-200 rounded-full flex">

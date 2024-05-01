@@ -14,7 +14,8 @@ import 'aos/dist/aos.css'
 function App() {
   useEffect(() =>{
     Aos.init({duration: 1500,})
-  }, [])
+  }, []);
+    document.title = "Tran Nam Son";
   return (
     <div>
       <div className=" h-screen">

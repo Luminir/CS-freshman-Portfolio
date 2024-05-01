@@ -27,7 +27,7 @@ const Skills = () => {
                 </div>
             </div>
 
-            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="150">
+            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="100">
                 <img className='w-20 mx-auto mt-3 ' src={C} alt="C Icon" />
                 <h2 className='text-2xl font-bold text-center py-5 border-b'>C</h2>
                 <div className='text-center font-medium'>
@@ -41,7 +41,7 @@ const Skills = () => {
                 </div>
             </div>
 
-            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="300">
+            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="200">
                 <img className='w-20 mx-auto mt-3 ' src={Python} alt="Python Icon" />
                 <h2 className='text-2xl font-bold text-center py-5 border-b'>Python</h2>
                 <div className='text-center font-medium'>
@@ -55,7 +55,7 @@ const Skills = () => {
                 </div>
             </div>
 
-            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="450">
+            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="300">
                 <img className='w-20 mx-auto mt-3 ' src={Html} alt="Html Icon" />
                 <h2 className='text-2xl font-bold text-center py-5 border-b'>HTML</h2>
                 <div className='text-center font-medium'>
@@ -69,7 +69,7 @@ const Skills = () => {
                 </div>
             </div>
 
-            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="600">
+            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="400">
                 <img className='w-20 mx-auto mt-3 ' src={Css} alt="Css Icon" />
                 <h2 className='text-2xl font-bold text-center py-5 border-b'>CSS</h2>
                 <div className='text-center font-medium'>
@@ -83,7 +83,7 @@ const Skills = () => {
                 </div>
             </div>
 
-            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="750">
+            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="500">
                 <img className='w-20 mx-auto mt-3 ' src={Javascript} alt="JS Icon" />
                 <h2 className='text-2xl font-bold text-center py-5 border-b'>Javascript</h2>
                 <div className='text-center font-medium'>
@@ -97,7 +97,7 @@ const Skills = () => {
                 </div>
             </div>
 
-            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="900">
+            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="600">
                 <img className='w-20 mx-auto mt-3 ' src={Sqlite} alt="SQLite Icon" />
                 <h2 className='text-2xl font-bold text-center py-5 border-b'>SQLite</h2>
                 <div className='text-center font-medium'>
@@ -111,7 +111,7 @@ const Skills = () => {
                 </div>
             </div>
 
-            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="1050">
+            <div className="w-full bg-white shadow-2xl flex flex-col p-4 my-4 rounded-2xl hover:scale-105 duration-500" data-aos="zoom-in-up" data-aos-delay="700">
                 <img className='w-20 mx-auto mt-3 ' src={MongoDB} alt="MongoDB Icon" />
                 <h2 className='text-2xl font-bold text-center py-5 border-b'>MongoDB</h2>
                 <div className='text-center font-medium'>
